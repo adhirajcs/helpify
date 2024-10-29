@@ -1,9 +1,9 @@
-# Helipfy
+# Helpify
 
-Helipfy is a location-based community service platform designed to facilitate assistance and support within local communities. Users can post requests for crowdfunding, donations, assistance in locating missing persons or pets, or accessing essential medical supplies, which are visible only to others within the same city.
+Helpify is a location-based community service platform designed to facilitate assistance and support within local communities. Users can post requests for crowdfunding, donations, assistance in locating missing persons or pets, or accessing essential medical supplies, which are visible only to others within the same city.
 
 ## Background:
-Helipfy was developed as a College Major Project for MCA degree in Heritage Institute of Technology, Kolkata College by contributors Soumik Sil, Avishek Verma, and Adhiraj Saha.
+Helpify was developed as a College Major Project for MCA degree in Heritage Institute of Technology, Kolkata College by contributors Soumik Sil, Avishek Verma, and Adhiraj Saha.
 
 ## Contributors:
 - [Soumik Sil](https://github.com/soumik-aj12)
@@ -24,7 +24,7 @@ Helipfy was developed as a College Major Project for MCA degree in Heritage Inst
 
 ## Installation:
 1. Clone the repository: `git clone https://github.com/Imperial79/helpify.git`
-2. Navigate to the project directory: `cd helipfy`
+2. Navigate to the project directory: `cd helpify`
 3. Install dependencies for backend: `npm i`
 4. Start the backend server: `npm run dev`
 5. Navigate to the frontend of the project: `cd frontend`
@@ -33,6 +33,6 @@ Helipfy was developed as a College Major Project for MCA degree in Heritage Inst
 
 ## License
 
-Helipfy is not licensed. 
+Helpify is not licensed. 
 
 **Note:** Please note that this project is not licensed, and any use or modification of the code is at your own discretion and responsibility.
